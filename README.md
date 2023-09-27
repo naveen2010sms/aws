@@ -1,2 +1,4 @@
 # aws
 azure
+gcp
+etc..
